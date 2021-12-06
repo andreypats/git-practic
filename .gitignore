@@ -1,0 +1,8 @@
+# скрываем файлы .db и .log
+*.db
+*.log
+
+# скрываем директории с названиями target или bin
+target/
+bin/
+readme/
